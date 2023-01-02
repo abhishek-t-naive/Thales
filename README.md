@@ -1,5 +1,5 @@
 # Thales: Formulating and Estimating Architectural Vulnerability Factors for DNN Accelerators
-This repository contains code for our framework Thales, which can be utilized to estiate the vulnerability of different DNN accelerators to soft-errors.
+This repository contains code for our framework Thales, which can be utilized to estimate the vulnerability of different DNN accelerators to soft-errors.
 
 ## Publication
 ```
